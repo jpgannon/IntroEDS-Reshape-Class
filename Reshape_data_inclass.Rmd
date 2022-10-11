@@ -91,3 +91,5 @@ In the chunk below, reproduce the McD_chem.png plot as accurately as possible.
 ```{r}
 
 ```
+
+Knit this rmd and submit on canvas as an html or pdf!
